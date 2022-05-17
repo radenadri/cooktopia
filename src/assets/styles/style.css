@@ -1,0 +1,19 @@
+/* CSS Custom Properties Definitions */
+
+/* HTML elements */
+
+html,
+body,
+#___gatsby {
+  height: 100%;
+}
+
+div#gatsby-focus-wrapper[tabindex] {
+  height: 100%;
+}
+
+.banner-image {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--chakra-radii-lg);
+}
